@@ -10,4 +10,4 @@ I have received Horiseon's website and source code information.  It is my duty t
 
 ### Fucntionality
 
-![code refactor](develop/assets/images/Screenshot.PNG)
+![code refactor](Develop/assets/images/Screenshot.PNG)
