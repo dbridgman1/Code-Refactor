@@ -1,4 +1,4 @@
-# Code-Refractor
+# Code-Refactor
 
 ## Description
 
@@ -10,4 +10,4 @@ I have received Horiseon's website and source code information.  It is my duty t
 
 ### Fucntionality
 
-![code refractor](develop/assets/images/Screenshot.PNG)
+![code refactor](develop/assets/images/Screenshot.PNG)
