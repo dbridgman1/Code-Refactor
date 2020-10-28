@@ -7,14 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* attributes for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* color change for seo portion of Horiseon */
 #seo {
     color: #ccc;
 }
@@ -23,7 +23,7 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* styling for navigation link */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,11 +37,11 @@ a {
     text-decoration: none;
     padding: 15px;
 }
-
+/* font size for every paragraphs on the webpage */
 p {
     font-size: 16px;
 }
-
+/* attaching background image and its styling attributes */ 
 .hero {
     height: 800px;
     width: 100%;
@@ -51,8 +51,8 @@ p {
     background-position: center;
     
 }
-
-.content section {
+/* styling for the articles in the content class */
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -60,32 +60,32 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* styling for the 3 images in the content class */
 .content img {
     max-height: 200px;
 }
-
-.content h2 {
+/* styling for all h2 tags */
+h2 {
     margin-bottom: 20px;
     font-size: 36px
 }
-
+/* positioning for search engine optimization and social media marketing images */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* positioning for online reputation management */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* sizing for the content blocks */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* styling for the aside tag on the right side of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -96,12 +96,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* font color and spacing between sections inside block on right side of page */
 .benefits section { 
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* styling for all h3 tags */
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -112,7 +112,7 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* styling for footing and clearing the float so webpage flows correctly */
 footer {
     padding: 30px;
     clear: both;
